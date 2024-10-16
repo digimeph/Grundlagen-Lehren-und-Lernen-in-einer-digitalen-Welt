@@ -1,5 +1,3 @@
-![DLB icon](https://github.com/user-attachments/assets/e3dfd6d6-fadd-4935-955f-ac0b47756849)
-
 Die Webseite der Digital Learning Base (DigiLeB, https://digileb.phbern.ch/) der PHBern befasst sich rund um das Lehren und Lernen in einer digitalen Welt. Die Seite bietet Materialien wie Grundlagen, Anleitungen u.v.m.:
 
 - Medienkompetenz: Förderung der Fähigkeiten im Umgang mit digitalen Medien. Unterstützung bei Produktionen von Medienprojekten in Lehre, Studium und Forschung. Kreative und effektive Nutzung digitaler Medien, wie z.B. Videos, Podcasts, interaktiven Präsentationen und anderen multimedialen Materialien. Ziel ist es, Lerninhalte ansprechend und verständlich zu vermitteln.
