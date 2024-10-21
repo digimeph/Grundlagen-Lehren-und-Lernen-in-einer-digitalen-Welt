@@ -1,11 +1,11 @@
 '@context': https://schema.org/
-creativeWorkStatus: Draft
+creativeWorkStatus: Published
 type: LearningResource
 name: Grundlagen Lehren und Lernen in einer digitalen Welt
 description: >-
   Die Webseite der Digital Learning Base (DigiLeB, https://digileb.phbern.ch/)
   der PHBern bietet Grundlagen, Anleitungen u.v.m. für das Lehren und Lernen in
-  einer digitalen Welt. 
+  einer digitalen Welt.
 
 
   Hier sind einige der Hauptthemen, die auf der Website digileb.phbern.ch zu
@@ -20,10 +20,10 @@ description: >-
   - Medienproduktion: Unterstützung bei der Herstellung, Nutzung und Einsatz von
   digitalen Medien. Ziel ist es, mediale Lerninhalte qualitativ, ansprechend und
   verständlich zu vermitteln.
-  
-  Direktlink zur Website: https://digileb.phbern.ch/
-  
+    
+    Direktlink zur Website: https://digileb.phbern.ch/
 license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://digileb.phbern.ch/
 creator:
   - givenName: Melanie
     familyName: Pfeifer
@@ -34,5 +34,14 @@ creator:
 keywords:
   - Medienkompetenz
   - Digitalität
-  - Lehren
-  - Lernen
+  - Digitale Lehre
+  - Digitales Lernen
+inLanguage:
+  - de
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+learningResourceType:
+  - https://w3id.org/kim/hcrt/web_page
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2024-10-21'
